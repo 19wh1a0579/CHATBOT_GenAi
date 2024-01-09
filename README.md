@@ -1,1 +1,1 @@
-# CHATBOT_GenAi
+# GenAi Projects
